@@ -26,6 +26,6 @@ https://github.com/adap/flower/tree/main/examples/flower-simulation-step-by-step
 
 --------------------------------------------------------------------------------
 
-This work was prepared by
+This work was prepared by--->
 Chekaiem Badreddine
-Zeghad Selma
+& Zeghad Selma
