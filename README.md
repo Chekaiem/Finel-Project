@@ -25,7 +25,14 @@ In order to build a decentralized education simulation, we say using the Flower 
 https://github.com/adap/flower/tree/main/examples/flower-simulation-step-by-step-pytorch
 
 --------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Dataset Presentation
+---------------------
+This project introduces the Edge-IIoTset-2022, a comprehensive cybersecurity dataset tailored specifically for IoT and IIoT applications. We have selected this new synthetic
+real-world dataset for its effectiveness in training deep learning-based intrusion detection systems.
 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 This work was prepared by--->
 Chekaiem Badreddine
 & Zeghad Selma
