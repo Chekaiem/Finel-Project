@@ -18,3 +18,15 @@ resilience of critical infrastructure systems.
 Keywords: Internet of Things (IoT), Industrial Internet of Things (IIoT),
 Industrial Control Systems (ICS), Distributed Denial of Service (DDoS) ,
 Critical Infrastructure, Federated Learning. Flower 
+
+--------------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+--------------------------------------------------------------------------------
+In order to build a decentralized education simulation, we say using the Flower framework, whose educational course you can find in the following link
+https://github.com/adap/flower/tree/main/examples/flower-simulation-step-by-step-pytorch
+
+--------------------------------------------------------------------------------
+
+This work was prepared by
+Chekaiem Badreddine
+Zeghad Selma
